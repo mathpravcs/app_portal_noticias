@@ -1,1 +1,1 @@
-#Essa applicação é um portal de noticias.
+# Portal de noticias
